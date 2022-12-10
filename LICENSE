@@ -186,7 +186,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2022 Nozdormv
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -199,3 +199,9 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+   
+   If you decide to modify a copy of this application for distribution, you
+   must remove all affiliation with us and make it clear who is the person
+   making the modification and distribution of that new copy. We are not 
+   responsible for any copy of the application delivered to you through 
+   any other than this github page.
