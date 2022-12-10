@@ -17,6 +17,7 @@ This is a password manager desktop app created with the Electron platform. It al
 
 # Requirements
 * Windows x64 operating system.
+* Disk space needed: 222mb
 
 # Installation
 1. <a href="https://github.com/Nozdormv/Passgen/releases">Download</a> the latest version of Passgen from this GitHub repository.
