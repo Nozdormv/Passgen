@@ -49,6 +49,14 @@ Once you have submitted the bug report, the project's developers will receive a 
 
 In summary, to report a bug in the application you should go to the GitHub "issues" page and create a new bug report. If you need additional help, you can contact the support team via email. Thank you for reporting bugs and helping to improve the application!
 
+# Privacy
+
+In our application, we do not save or obtain any information from users. The information entered in the application is saved locally on the user's device, and is not uploaded to any online database or server.
+
+This means that no personal or confidential user data is shared with us, or used for any purpose other than the user's exclusive use in the application. The user's privacy is very important to us, and that is why we take measures to ensure that all information is securely and privately stored on the user's device.
+
+If you have any questions or concerns about how we protect user information in our application, please do not hesitate to contact us. We will be happy to provide you with more information and help you with anything you need. Thank you for trusting our application and respecting the privacy of users!
+
 # Licence
 This application is licensed under the Apache License version 2.0. This means that you may use, modify and distribute the application in accordance with the terms set out in the licence. For more information about the Apache License, see the "<a href="https://github.com/Nozdormv/Passgen/blob/main/LICENSE">License</a>" file included in this package.
 
