@@ -1,7 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/834745138424315924/1051131522729652224/key.png" alt="Passgen logo" height="10%" width="10%" draggable="false">
 
 ![Version - v2-161121](https://img.shields.io/github/v/release/Nozdormv/Passgen?style=for-the-badge)
-[![downloads - 0](https://img.shields.io/github/downloads/Nozdormv/Passgen/total?style=for-the-badge)](https://github.com/Nozdormv/Passgen/releases/download/)
+![downloads - 0](https://img.shields.io/github/downloads/Nozdormv/Passgen/total?color=red&style=for-the-badge)
 ![licence](https://img.shields.io/github/license/Nozdormv/Passgen?style=for-the-badge)
 
 # Passgen
